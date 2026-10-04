@@ -13,3 +13,4 @@ PROMPT.md
 DESIGN.md
 *.png
 !assets/**/*.png
+dist/
