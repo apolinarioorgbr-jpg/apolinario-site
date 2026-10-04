@@ -1,0 +1,1 @@
+{"name":"flowtive-local","private":true,"scripts":{"start":"node server.cjs"}}
